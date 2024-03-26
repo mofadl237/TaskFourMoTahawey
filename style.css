@@ -16,5 +16,5 @@ section .info .infoH3 #span {
 }
 /*Specific (0,0,4)*/
 section div h3 span {
-    color: red ;
+    color: red !important;
 }
